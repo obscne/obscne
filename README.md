@@ -65,7 +65,10 @@
 ###
 
 <p align="center">
-(ew man ollies threatening to beat up minors on his tumblr)
+<img width="453" height="122" alt="Screenshot 2026-05-11 183146" src="https://github.com/user-attachments/assets/8cf38c13-5c7d-4c7c-b0d7-7e3b2239d36e" />
+
+<p align="center">
+GET THE CHAMPAGNE OUT GUYS WE DID IT 
 
 ###
 
