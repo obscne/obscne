@@ -65,14 +65,11 @@
  
 ###
 
-<p align="center">
-<img width="453" height="122" alt="Screenshot 2026-05-11 183146" src="https://github.com/user-attachments/assets/8cf38c13-5c7d-4c7c-b0d7-7e3b2239d36e" />
 
-<p align="center">
-GET THE CHAMPAGNE OUT GUYS WE DID IT 
+
 
 ###
 
 
-<img width="1500" height="132" alt="tumblr_760fdf716e2912096d9976ff8e566e5a_8f5e3261_2048" src="https://github.com/user-attachments/assets/29a84ba3-9845-44c3-8d5e-aad1d7585f3f" />
+
 
