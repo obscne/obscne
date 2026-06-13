@@ -8,8 +8,6 @@
 
 
 
-
-
 ###
 
 
@@ -66,6 +64,8 @@
 ###
 
 
+<p align="center">
+<img width="522" height="390" alt="tumblr_c613a8ad41b1af3b52a23dcd9b8b3cf1_9d11956f_2048" src="https://github.com/user-attachments/assets/1e397ed9-e059-497b-bb17-c43e9f0b735b" />
 
 
 ###
