@@ -1,5 +1,6 @@
 <p align="center">
-<img width="940" height="324" alt="Untitled45_20260428174620" src="https://github.com/user-attachments/assets/c60746d7-7457-4939-aaed-973e1d47b217" />
+<img width="927" height="276" alt="28643b0f-c584-4d2e-95b2-99b021eae793" src="https://github.com/user-attachments/assets/e65d323a-54c0-4665-8e66-101e41773605" />
+
 
 
 
