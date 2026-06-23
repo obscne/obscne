@@ -53,9 +53,6 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=25&duration=2000&pause=10&color=BAC2B8&center=true&multiline=true&repeat=false&width=900&height=300&lines=If+you+are+friends+with+Ollie%2C++;know+about+his+actions+and+still+choose+to+support+him;Block+me." alt="Typing SVG" /></a>
- 
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&duration=1&pause=1000&color=BAC2B84B&center=true&width=435&lines=(+big+c*h+comf+so+feel+free+to+do+so!+)" alt="Typing SVG" /></a>
 
  ###
