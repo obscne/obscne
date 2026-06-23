@@ -40,11 +40,11 @@
 
 
 <p align="center">
-<a href="https://en.pronouns.page/@coatguuy">.✦ ݁˖𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴 𝘱𝘢𝘨𝘦</a>
+<a href="https://en.pronouns.page/@coatguuy">.✦ ݁˖𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴</a>
  </p>
  
 <p align="center">
- <a href="https://coatguuy.atabook.org/?page=1">.✦ ݁˖𝘢𝘵𝘢 𝘣𝘰𝘰𝘬</a>
+ <a href="https://coatguuy.atabook.org/?page=1">.✦ ݁˖𝘢𝘵𝘢</a>
   </p>
 
  
