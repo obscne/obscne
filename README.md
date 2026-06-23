@@ -1,5 +1,5 @@
 <p align="center">
-<img width="927" height="276" alt="28643b0f-c584-4d2e-95b2-99b021eae793" src="https://github.com/user-attachments/assets/e65d323a-54c0-4665-8e66-101e41773605" />
+<img width="960" height="540" alt="tumblr_e3ec6b2ab1f850a7099433cd9b2711a7_cfd8414a_1280" src="https://github.com/user-attachments/assets/23f7b8ec-f6a7-4f68-849e-c0f03a696d70" />
 
 
 
@@ -19,28 +19,25 @@
 
 ###
 
- <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Offside&size=17&letterSpacing=30%25&duration=2000&pause=30&color=6AB48F&multiline=true&width=435&lines=Even+those+c-closest+will+;disappear.+S-Sooner+or+later." alt="Typing SVG" /></a>
+ <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&duration=4999&color=7F8271&center=true&multiline=true&repeat=false&width=410&height=30&lines=Keep+Rose+safe%E2%80%A6+Watch+over+her.+;Teach+her+to+be+strong." alt="Typing SVG" /></a>
 
 
 
-<img width="2048" height="225" alt="tumblr_45fd82bca2d0d3f8dd17664a03af73e8_73af98ce_2048" src="https://github.com/user-attachments/assets/6f4fa52a-81d3-426c-a14e-6891181367c6" />
+
+
+
 
 ‎ ‎  
 
 ###
 ###
 
-<p align="center">
-
-</p>
-<p align="center">
-❄️
-</p> 
+<p align="center"> <img width="2048" height="123" alt="tumblr_4f01862dc27e787913c46d0c678065e6_f528a7f6_2048" src="https://github.com/user-attachments/assets/c8b90606-ef49-4dc9-a862-c5a898879c85" />
 
 
-<p align="center">
-  <a href="https://guns.lol/_sem">𝘨𝘶𝘯𝘴</a>
-</p>
+
+
+
 
 <p align="center">
 <a href="https://en.pronouns.page/@coatguuy">𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴 𝘱𝘢𝘨𝘦</a>
@@ -59,17 +56,18 @@
 
 
 <p align="center">
-𝘪𝘧 𝘶𝘳 𝘧𝘳𝘪𝘦𝘯𝘥𝘴 𝘸 𝘰𝘭𝘭𝘪𝘦 𝘢𝘯𝘥 𝘴𝘶𝘱𝘱𝘰𝘳𝘵 𝘩𝘪𝘴 𝘢𝘤𝘵𝘪𝘰𝘯𝘴 𝐛𝐥𝐨𝐜𝐤 𝐦𝐞
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=25&duration=2000&pause=10&color=BAC2B8&center=true&multiline=true&repeat=false&width=900&height=300&lines=If+you+are+friends+with+Ollie%2C++;know+about+his+actions+and+still+choose+to+support+him;Block+me." alt="Typing SVG" /></a> /></a>
 
  
 ###
 
 
 <p align="center">
-<img width="522" height="390" alt="tumblr_c613a8ad41b1af3b52a23dcd9b8b3cf1_9d11956f_2048" src="https://github.com/user-attachments/assets/1e397ed9-e059-497b-bb17-c43e9f0b735b" />
+<img width="1280" height="330" alt="tumblr_c8a9da5c9d2bd22802580d986f624f0d_a9585bd5_1280" src="https://github.com/user-attachments/assets/5c2b2d68-484e-49b6-ad8a-d05c6a173b31"
+
+<img width="2048" height="327" alt="tumblr_4ab08389650d31476de1656e382a872d_d8bde73a_2048" src="https://github.com/user-attachments/assets/dddc7bc4-5355-40d6-bee5-218cdbd58e98" />
 
 
-###
 
 
 
