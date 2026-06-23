@@ -52,20 +52,18 @@
  ###
 
 
-
-
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=25&duration=2000&pause=10&color=BAC2B8&center=true&multiline=true&repeat=false&width=900&height=300&lines=If+you+are+friends+with+Ollie%2C++;know+about+his+actions+and+still+choose+to+support+him;Block+me." alt="Typing SVG" /></a> /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=25&duration=2000&pause=10&color=BAC2B8&center=true&multiline=true&repeat=false&width=900&height=300&lines=If+you+are+friends+with+Ollie%2C++;know+about+his+actions+and+still+choose+to+support+him;Block+me." alt="Typing SVG" /></a>
 
- 
 ###
+<p align="center">
+<img width="231" height="353" alt="tumblr_d07d9d21bfc5103cca247cd77874a3ba_4dba50b1_2048" src="https://github.com/user-attachments/assets/f42bbc9a-08fb-4f9d-afb9-8097d90caf3b"/>
 
 
 <p align="center">
 <img width="1280" height="330" alt="tumblr_c8a9da5c9d2bd22802580d986f624f0d_a9585bd5_1280" src="https://github.com/user-attachments/assets/5c2b2d68-484e-49b6-ad8a-d05c6a173b31"
 
-<img width="2048" height="327" alt="tumblr_4ab08389650d31476de1656e382a872d_d8bde73a_2048" src="https://github.com/user-attachments/assets/dddc7bc4-5355-40d6-bee5-218cdbd58e98" />
+<img width="2048" height="327" alt="tumblr_4ab08389650d31476de1656e382a872d_d8bde73a_2048" src="https://github.com/user-attachments/assets/dddc7bc4-5355-40d6-bee5-218cdbd58e98"/>
 
 
 
