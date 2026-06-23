@@ -40,11 +40,11 @@
 
 
 <p align="center">
-<a href="https://en.pronouns.page/@coatguuy">𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴 𝘱𝘢𝘨𝘦</a>
+<a href="https://en.pronouns.page/@coatguuy">.✦ ݁˖𝘱𝘳𝘰𝘯𝘰𝘶𝘯𝘴 𝘱𝘢𝘨𝘦</a>
  </p>
  
 <p align="center">
- <a href="https://coatguuy.atabook.org/?page=1">𝘢𝘵𝘢 𝘣𝘰𝘰𝘬</a>
+ <a href="https://coatguuy.atabook.org/?page=1">.✦ ݁˖𝘢𝘵𝘢 𝘣𝘰𝘰𝘬</a>
   </p>
 
  
@@ -54,8 +54,12 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=25&duration=2000&pause=10&color=BAC2B8&center=true&multiline=true&repeat=false&width=900&height=300&lines=If+you+are+friends+with+Ollie%2C++;know+about+his+actions+and+still+choose+to+support+him;Block+me." alt="Typing SVG" /></a>
+ 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&duration=1&pause=1000&color=BAC2B8&center=true&width=435&lines=(+big+c*h+comf+so+feel+free+to+do+so!+)" alt="Typing SVG" /></a>
 
-###
+ ###
+ 
 <p align="center">
 <img width="231" height="353" alt="tumblr_d07d9d21bfc5103cca247cd77874a3ba_4dba50b1_2048" src="https://github.com/user-attachments/assets/f42bbc9a-08fb-4f9d-afb9-8097d90caf3b"/>
 
