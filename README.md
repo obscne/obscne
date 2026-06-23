@@ -30,9 +30,7 @@
 ‎ ‎  
 
 ###
-###
 
-<p align="center"> <img width="2048" height="123" alt="tumblr_4f01862dc27e787913c46d0c678065e6_f528a7f6_2048" src="https://github.com/user-attachments/assets/c8b90606-ef49-4dc9-a862-c5a898879c85" />
 
 
 
