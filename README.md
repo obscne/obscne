@@ -1,5 +1,6 @@
 <p align="center">
 <img width="441" height="341" alt="Screenshot_20260706_001907_CapCut" src="https://github.com/user-attachments/assets/bc4ef17b-0684-46a3-b5fb-0299c3bd6118" />
+ <p align="center">
  guys LOOK what @alexstikks drew me for my bday ohmygfod ITS ME
 <p align="center">
 <img width="960" height="540" alt="tumblr_e3ec6b2ab1f850a7099433cd9b2711a7_cfd8414a_1280" src="https://github.com/user-attachments/assets/23f7b8ec-f6a7-4f68-849e-c0f03a696d70" />
