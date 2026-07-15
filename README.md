@@ -60,8 +60,6 @@
 <p align="center">
 <img width="1280" height="330" alt="tumblr_c8a9da5c9d2bd22802580d986f624f0d_a9585bd5_1280" src="https://github.com/user-attachments/assets/5c2b2d68-484e-49b6-ad8a-d05c6a173b31"
 
-<img width="1048" height="127" alt="tumblr_4ab08389650d31476de1656e382a872d_d8bde73a_2048" src="https://github.com/user-attachments/assets/dddc7bc4-5355-40d6-bee5-218cdbd58e98"/>
-
 
 
 
